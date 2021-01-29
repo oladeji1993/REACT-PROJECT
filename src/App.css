@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.ReactTable .rt-thead.-filters input, .ReactTable .rt-thead.-filters select {
+  display:none;
+}
+
+
+
+.header{
+  text-align:center;
+  color:rgb(5, 68, 47)
+}
+
+h1{
+  margin-block-end: 0px;
+}
